@@ -1,0 +1,6 @@
+{
+  "name": "AudioViral AI",
+  "description": "Convert audio uploads into structured, viral-ready social media content for YouTube, Facebook, and TikTok with natural Bengali translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Audio Processing", "Multilingual Translation", "AI Content Strategy"]
+}
